@@ -1,0 +1,108 @@
+@charset "iso-8859-1";
+html {scrollbar-face-color: #333333; scrollbar-highlight-color: #444444; scrollbar-shadow-color: #333333; scrollbar-3dlight-color: #000000; scrollbar-arrow-color: #86AA86; scrollbar-track-color: #202020; scrollbar-darkshadow-color: #202020; scrollbar-base-color: #000000}
+body {color: #000000; background: #202020; margin: 0; padding: 0; font-family: sans-serif; font-weight: bold; font-size: 12px; font: Verdana, Arial Black; text-decoration: none}
+.bgbloc {background: #86AA86}
+.iface {width: 100%; height:575px; background: #555555;}
+.header1 {width: 100%; height: 278px; background: #000000; background-image: url('imagens/bg_header.jpg'); background-repeat: no-repeat; background-position: right}
+.header2 {background: #000000; background: url('imagens/header_2.gif'); background-repeat: repeat; width: 25%; background-position: left}
+.header3 {background: #000000; background: url(imagens/header_4.gif); background-repeat: repeat; width: 65%;}	
+.logo {position: absolute; margin-left: 50px; margin-top: 15px}
+.image1 {position: absolute; top: 0px}
+.image2 {position: absolute; top: 80px; margin-left: 35px;}
+.worm1 {position: absolute; top: 197px; margin-left: 0px;}
+.worm2 {position: absolute; top: 210px}
+.log {position: absolute; top: 250px}
+a {color: #000000; font-family: sans-serif; font-weight: bold; font-size: 12px; font: Verdana, Arial Black; text-decoration: none}
+a:hover {color: #383838; font-family: sans-serif; font-weight: bold; font-size: 12px; font: Verdana, Arial Black; text-decoration: none}
+.copy {color: #6BAD29; font-family: sans-serif; font-weight: bold; font-size: 12px; font: Verdana, Arial Black}
+a.copy {color: #6BAD29; font-family: sans-serif; font-weight: bold; font-size: 12px; font: Verdana, Arial Black; text-decoration: none}
+a.copy:hover {color: #6BAD29; font-family: sans-serif; font-weight: bold; font-size: 12px; font: Verdana, Arial Black; text-decoration: underline}
+a.mma {color: #000000; font-family: sans-serif; font-weight: bold; font-size: 11px; font: Verdana, Arial Black; text-decoration: none}
+a.mma:hover {color: #333333; font-family: sans-serif; font-weight: bold; font-size: 11px; font: Verdana, Arial Black; text-decoration: none}
+.mma {color: #000000; font-size: 11px; margin-top: 4px}
+a.mmb {color: #000000; font-family: sans-serif; font-weight: bold; font-size: 11px; font: Verdana, Arial Black; text-decoration: none}
+a.mmb:hover {color: #333333; font-family: sans-serif; font-weight: bold; font-size: 11px; font: Verdana, Arial Black; text-decoration: none}
+.mmb {color: #00000; font-size: 11px; margin-top: 4px}
+a.mmc {color: #6BAD29; font-family: sans-serif; font-weight: bold; font-size: 11px; font: Verdana, Arial Black; text-decoration: none}
+a.mmc:hover {color: #6BAD29; font-family: sans-serif; font-weight: bold; font-size: 11px; font: Verdana, Arial Black; text-decoration: none}
+.mmc {color: #6BAD29; font-size: 11px; margin-top: 4px}
+form.search {display: inline;font-family: Verdana; font-size: 11px; float: right}
+input {font-family: Verdana; background-color: #6BAD29; color: #000000; font-size: 10px; border: 1px solid #000000;}
+textarea {font-family: Verdana; background-color: #6BAD29; color: #000000; font-size: 10px; border: 1px solid #000000;}
+checkbox {color: #000000; border: 1px solid #000000;}
+.input {font-family: Verdana; background-color: #6BAD29; color: #000000; font-size: 10px; border: 1px solid #000000; margin-top: 228px;}
+.button {font-family: Verdana; color: #000000; background-color: #6BAD29; font-size: 10px; border: 1px solid #000000;}
+.input1 {font-family: Verdana; background-color: #6BAD29; color: #000000; font-size: 10px; border: 1px solid #000000; margin-left: 5px}
+.button1 {font-family: Verdana; color: #000000; background-color: #6BAD29; font-size: 10px; border: 1px solid #000000; margin-top: 228px; right: 10px}
+select {font-family: Verdana; background-color: #6BAD29; color: #000000; font-size: 10px; border: 1px solid #000000;}
+.select1 {font-family: Verdana; background-color: #6BAD29; color: #000000; font-size: 10px; border: 1px solid #000000;}
+hr {size: 1; color: #6BAD29}
+ul { margin: 2px; padding: 2px; list-style: decimal inside; text-align: left;}
+li {margin-left: 2px; list-style: square inside; color: #333333; font: Verdana; font-size: 12px; font-weight: bold}
+.outer {border: 1px solid #333333; width: 100%; background: #AAC4AA; color: #000000; font-weight: bold; font-size: 12px; font-family: sans-serif; font: Verdana}
+.content {background: #AAC4AA;}
+.item {border: 1px solid #333333;}
+.itemHead {background-color: #6BAD29; color: #000000; border-top: 1px solid #383838; border-left: 1px solid #383838; border-right: 1px solid #383838; padding: 4px; background: url(imagens/item_head.gif); font-weight: bold; font-size: 12px; font-family: sans-serif; font: Verdana; height: 18px}
+.itemInfo a {color: #6BAD29; font-size: 12px; font: Verdana; font-family: sans-serif}
+.itemInfo a:hover {color: #6BAD29; font-size: 12px; font: Verdana; font-family: sans-serif}
+.itemInfo1 a {color: #6BAD29; font-size: 12px; font: Verdana; font-family: sans-serif}
+.itemInfo1 a:hover {color: #6BAD29; font-size: 12px; font: Verdana; font-family: sans-serif}
+.itemInfo {text-align: right; color: #6BAD29; background-color: #6BAD29; border: 1px solid #383838; padding: 2px; background: url(imagens/item_info.gif); color: #333333; font-weight: bold; font-size: 12px; font-family: sans-serif; font: Verdana; height: 25px}
+.itemInfo1 {text-align: left; color:#6BAD29; background-color:#6BAD29; border: 1px solid #383838; padding: 2px; background: url(imagens/item_info.gif); color: #333333; font-weight: bold; font-size: 12px; font-family: sans-serif; font: Verdana}
+.itemTitle a {font-size: 14px; font-weight: bold; color: #000000; font: Verdana; font-family: sans-serif}
+.itemPoster {color: #6BAD29; font-size: 12px; font: Verdana; font-family: sans-serif}
+.itemPoster a {color: #6BAD29; font-size: 12px; font: Verdana; font-family: sans-serif}
+.itemPoster a:hover {color: #6BAD29; font-size: 12px; font: Verdana; font-family: sans-serif}
+.itemPostDate {color: #6BAD29; font-size: 12px; font: Verdana; font-family: sans-serif}
+.itemStats {color: #6BAD29; font-size: 12px; font: Verdana; font-family: sans-serif}
+.itemBody {color: #000000; font: Verdana; font-family: sans-serif; border-left: 1px solid #383838; border-right: 1px solid #383838; padding: 2px; background: #86AA86; font-size: 12px; font-weight: bold}
+.itemText {color: #000000; margin-top: 5px; margin-bottom: 5px; margin-left: 5px; margin-right: 5px; line-height: 1.5em;}
+.itemText:first-letter {font-size: 133%; font-weight: bold;}
+.itemFoot a {color: #6BAD29; font-size: 12px; font: Verdana; font-family: sans-serif}
+.itemFoot a:hover {color: #6BAD29; font-size: 12px; font: Verdana; font-family: sans-serif}
+.itemFoot1 a {color: #6BAD29; font-size: 12px; font: Verdana; font-family: sans-serif}
+.itemFoot1 a:hover {color: #6BAD29; font-size: 12px; font: Verdana; font-family: sans-serif}
+.itemFoot {background-color: #E9E9E9; background: url(imagens/item_info.gif); border: 1px solid #383838; color: #333333; font-weight: bold; font-size: 12px; font-family: sans-serif; font: Verdana; padding: 2px}
+.itemFoot1 {background-color: #E9E9E9; background: url(imagens/item_info.gif); border: 1px solid #383838; color: #333333; font-weight: bold; font-size: 12px; font-family: sans-serif; font: Verdana; padding: 2px; height: 25px}
+.barbloc {background-color: #E9E9E9; background: url(imagens/bar_bloc.gif); border: 1px solid #383838; color: #333333; font-weight: bold; font-size: 12px; font-family: sans-serif; font: Verdana; padding: 2px; height: 6px}
+.itemAdminLink {color: #6BAD29; text-align: left; font-size: 90%;}
+.itemPermaLink {color: #6BAD29; text-align: left; font-size: 90%;}
+.head {background-color: #8BBD8B; padding: 2px; color: #333333; font-weight: bold; font-size: 12px; font-family: sans-serif; font: Verdana}
+.head1 {text-align: right; color: #6BAD29; padding: 2px; background: url(imagens/item_info.gif); border-top: 1px solid #383838; border-bottom: 1px solid #383838; font-weight: bold; font-size: 12px; font-family: sans-serif; font: Verdana}
+.head2 {text-align: left; color: #000000; background-color: #DADADA; padding: 4px; background: url(imagens/item_head.gif); border-top: 1px solid #383838; border-bottom: 1px solid #383838; font-weight: bold; font-size: 12px; font-family: sans-serif; font: Verdana; height: 26px}
+.head3 {text-align: left; color: #000000; background-color: #DADADA; padding: 2px; background: url(imagens/item_info.gif); font-weight: bold; font-size: 12px; font-family: sans-serif; font: Verdana}
+.head4 {color: #6BAD29; background-color: #DADADA; padding: 2px; background: url(imagens/item_info.gif); font-weight: bold; font-size: 12px; font-family: sans-serif; font: Verdana}
+.even {margin-left: 2px; padding-left: 2px; background: #AAC4AA; color: #000000; font-weight: bold; font-size: 12px; font-family: sans-serif; font: Verdana;}
+.odd {margin-left: 2px; padding-left: 2px; background: #AAC4AA; color: #000000; font-weight: bold; font-size: 12px; font-family: sans-serif; font: Verdana}
+.foot {color: #000000; background-color: #DADADA; padding: 2px; background: url(imagens/item_info.gif); border-top: 1px solid #383838; border-bottom: 1px solid #383838;font-weight: bold; font-size: 12px; font-family: sans-serif; font: Verdana}
+div.errorMsg { background-color: #DEDEDE; text-align: center; border-top: 1px solid #DDDDFF; border-left: 1px solid #DDDDFF; border-right: 1px solid #AAAAAA; border-bottom: 1px solid #AAAAAA; font-weight: bold; padding: 10px;}
+div.confirmMsg { background-color: #DEDEDE; color: #000000; text-align: center; border-top: 1px solid #DDDDFF; border-left: 1px solid #DDDDFF; border-right: 1px solid #AAAAAA; border-bottom: 1px solid #AAAAAA; font-weight: bold; padding: 10px;}
+div.resultMsg { background-color : #DEDEDE; color: #333333; text-align: center; border-top: 1px solid silver; border-left: 1px solid silver; font-weight: bold; border-right: 1px solid #666666; border-bottom: 1px solid #666666; padding: 10px;}
+div.xoopsCode { background: #DEDEDE; border: 1px inset #000080; font-family: "Courier New",Courier,monospace; padding: 0px 6px 6px 6px;}
+div.xoopsQuote { background: #DEDEDE; border: 1px inset #000080; font-family: "Courier New",Courier,monospace; padding: 0px 6px 6px 6px;}
+.comTitle {background-color: #8BBD8B; color:#00000; border: 1px solid #503124; font-weight: bold; margin-bottom: 2px; padding: 2px;}
+.comText {padding: 2px;}
+.comUserStat {font-size: 10px; background-color: #8BBD8B; color:#000000; border: 1px solid #000000; font-weight: bold; margin-bottom: 2px; padding: 2px;}
+.comUserStatCaption {font-weight: normal;}
+.comUserStatus {margin-left: 2px; margin-top: 10px; color: #000000; font-weight:bold; font-size: 10px;}
+.comUserRank {margin: 2px;}
+.comUserRankText {font-size: 10px;font-weight:bold;}
+.comUserRankImg {border: 0;}
+.comUserName {}
+.comUserImg {margin: 2px;}
+.comDate {font-size: 10px; font-weight: bold; font-family: sans-serif; font: Verdana; color: #6BAD29; text-align: right; margin-right: 5px; font-style: normal}
+.comDateCaption { color: #6BAD29; font-weight: bold; font-style: normal;}
+th{background-color: #BABABA; color: #000000; border-top: 1px solid #383838; border-left: 1px solid #383838; border-right: 1px solid #383838; padding: 2px; background: url(imagens/item_head.gif)}
+td#mainmenu a {background-color: #AAC4AA; display: block;}
+td#mainmenu a:hover {background-color: #8BBD8B;}
+td#mainmenu a.menuTop {border-top: 1px solid silver; border-right: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid silver;}
+td#mainmenu a.menuMain {border-right: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid silver;}
+td#mainmenu a.menuSub {border-right: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid silver;}
+td#usermenu a {background-color: #AAC4AA; display: block; border-right: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid silver;}
+td#usermenu a:hover {background-color: #8BBD8B;}
+td#usermenu a.menuTop {border-top: 1px solid silver;}
+td#usermenu a.highlight {background-color: #FCD706; color: #366692; font-family: sans-serif; font-weight: bold; font-size: 12px; font: Verdana, Arial Black; text-decoration: none}
+.bg_left_Title{background: url(imagens/item_head.gif); height: 24px; color: #000000; font-size: 12px; font-weight: bold; font-family: sans-serif; font: Verdana; text-align: left; padding: 2px}
+.blockTitle {color: #000000; font-size: 12px; font-weight: bold; font-family: sans-serif; font: Verdana; text-align: left; padding-top: 5px}
+.blockContent{color: #000000;}
+.comDate {font-size: 10px; font-weight: bold; font-family: sans-serif; font: Verdana; color: #6BAD29; text-align: right; margin-right: 5px; font-style: normal}
